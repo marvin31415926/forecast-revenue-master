@@ -1,0 +1,23 @@
+
+# logs
+local_logs/
+
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+
+#
+test.py
+example_okolo-analytycs.json
+.idea/
+__pycache__/
+.DS_Store
+README_VAR.md
+revenue.csv

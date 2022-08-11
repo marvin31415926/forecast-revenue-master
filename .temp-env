@@ -1,0 +1,15 @@
+SERVICE_NAME=revenue_forecast_calc
+ENVIRONMENT=dev
+LOG_LEVEL=INFO
+
+OUT_TABLE_FORECAST=reports_sandbox.forecast_revenue
+
+DB_HOST=pg-db01.int.x5food.tech
+DB_PORT=15544
+DB_NAME=postgres
+DB_USER=revenue_forecast_calc
+DB_PASS=
+
+
+STATSD_HOST=bioyino.x5food.tech
+STATSD_PORT=8126
